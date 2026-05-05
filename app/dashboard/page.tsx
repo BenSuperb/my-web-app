@@ -1,4 +1,4 @@
-import { supabase } from '@/lib/supabaseClients'
+import { supabase } from '/lib/supabaseClients'
 
 type DataCenter = {
   id: string
